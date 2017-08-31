@@ -1,0 +1,3 @@
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/CMakeFiles/CatStuff.dir
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/CMakeFiles/edit_cache.dir
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/CMakeFiles/rebuild_cache.dir

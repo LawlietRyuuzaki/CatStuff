@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/cat.h
+SFML/Graphics.hpp
+-
+
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/icon.h
+
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/keyboard.h
+cat.h
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/cat.h
+
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/src/cat.cpp
+SFML/Graphics.hpp
+-
+../headers/cat.h
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/cat.h
+
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/src/keyboard.cpp
+SFML/Graphics.hpp
+-
+../headers/keyboard.h
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/keyboard.h
+
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/src/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+../headers/keyboard.h
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/keyboard.h
+../headers/cat.h
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/cat.h
+../headers/icon.h
+C:/Users/pc/Documents/souc/Coding/programme/C++/random/headers/icon.h
+
