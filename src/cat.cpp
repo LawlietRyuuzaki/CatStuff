@@ -18,7 +18,7 @@ sf::RectangleShape Cat::DrawCat(){
 
 void Cat::Move(int i){
   if(isRunning)
-    velocity = baseVelocity + 1.0f;
+    velocity = baseVelocity + 1.7f;
   switch(i){
     case 0:
       cat.move(0.0f, velocity*-1);
